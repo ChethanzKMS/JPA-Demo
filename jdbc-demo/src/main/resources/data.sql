@@ -9,6 +9,7 @@ create table person
 );
 */
 
+
 INSERT INTO Person_Data (ID, NAME, LOCATION, BIRTH_DATE ) 
 VALUES(10001,  'Chandan', 'Hyderabad',sysdate());
 INSERT INTO Person_Data (ID, NAME, LOCATION, BIRTH_DATE ) 
